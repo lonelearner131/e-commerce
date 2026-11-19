@@ -1,0 +1,12 @@
+# Compiled output
+out/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
