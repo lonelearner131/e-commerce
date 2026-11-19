@@ -77,7 +77,7 @@ User (abstract)                    Product (abstract)
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/e-commerce.git
+git clone https://github.com/lonelearner131/e-commerce.git
 cd e-commerce
 
 # Compile
